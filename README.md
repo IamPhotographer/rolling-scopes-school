@@ -1,2 +1,2 @@
 # rsschool-cv
-https://GITHUB-IamPhotographer.github.io/rsschool-cv/cv
+https://github.com/IamPhotographer/rsschool-cv/blob/gh-pages/cv.md
