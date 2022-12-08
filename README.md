@@ -1,2 +1,2 @@
 # rsschool-cv
-repo for my study at RSschool
+https://GITHUB-IamPhotographer.github.io/rsschool-cv/cv
