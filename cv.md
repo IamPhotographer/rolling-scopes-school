@@ -7,7 +7,7 @@
 * __[LinkedIn](https://www.linkedin.com/in/serhii-kucherenko-0aab26235/)__
 * __[Codewars](https://www.codewars.com/users/rikSorkin)__
 ## About Me
-I'm 32 year old. I am currently a professional photographer, but I have already started learning the frontend. I hope to complete this course and gain some knowledge. 
+I'm 32 year old. I am currently a professional photographer, but I have already started learning the frontend. I hope to complete this course and gain some knowledge. My goal is to become a successful front-end developer and get my first job
 ## Skills
 * _HTML_
 * _CSS_
