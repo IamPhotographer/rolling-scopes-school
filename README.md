@@ -1,2 +1,2 @@
 # rsschool-cv
-repo for my study at RSschool
+https://github.com/IamPhotographer/rsschool-cv/tree/rsschool-cv-html
